@@ -1,0 +1,29 @@
+/* profile-card.css */
+.profile-card {
+  width: 260px;
+  padding: 20px;
+  background-color: #fafafa;
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card img {
+  width: 100px;
+  border-radius: 50%;
+  margin-bottom: 12px;
+}
+
+.profile-card h2 {
+  margin: 10px 0 4px;
+}
+
+.profile-card .socials a {
+  margin: 0 8px;
+  color: #333;
+  text-decoration: none;
+}
+
+.profile-card .socials a:hover {
+  text-decoration: underline;
+}
